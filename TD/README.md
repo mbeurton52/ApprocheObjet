@@ -11,6 +11,7 @@ que nous déveloperons pendant les séances suivantes.
 Il est très important que votre programme soit toujours à jour pour pouvoir suivre toutes les séances.
 
 <h2> Gestion des stocks de produits.</h2>
+
  <ul>
   <li> Créer une classe <tt> Product </tt> qui vous permettra de mémoriser les caractéristiques d'un produit :
      <ul>
