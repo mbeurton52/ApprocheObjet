@@ -1,11 +1,22 @@
-# Master Informatique année 1 - 
+ <html> 
+ <head>
+  <title> TD1 </title>
+ </head>
+ <body>
+Rappel du langage Java  
 
-<b>Cours Approche Objet - semestre 7. </b>
+Dans ce TD il s'agit essentiellement de revoir les bases du langage et de coder les premières versions du programme 
+que nous déveloperons pendant les séances suivantes.
 
-Ce cours porte sur la modélisatin orientée objet et utilise le langage Java pour l'implémentation du code des TDs.
+Il est très important que votre programme soit toujours à jour pour pouvoir suivre toutes les séances.
 
-Sur cette page vous trouverez le matériel nécessaire pour les TDs. 
-<ul>
-  <li> <a href="/mbeurton52/ApprocheObjet/TD/td1"> TD1 </a> - rappel Java - Création des classes et mise en place du core du programme.</li>
-  <li> <a href="/mbeurton52/ApprocheObjet/TDGraphiq"> TD interface graphique </a> - pour vous initier à l'utilisation d'une bibliothèque graphique.</li>
-
+<h2> Gestion des stocks de produits.</h2>
+ <ul>
+  <li> Créer une classe <tt> Product </tt> qui vous permettra de mémoriser les caractéristiques d'un produit :
+     <ul>
+      <li> Un nom sous forme de chaine de caractères.</li>
+      <li> Une quantité disponible sous forme d'un entier</li>
+      <li> Une référence unique générée automatiquement par le programme au moment de la création.  </li>
+   </ul>
+<li> Créer une classe 
+mb
